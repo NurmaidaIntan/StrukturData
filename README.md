@@ -1,32 +1,55 @@
 Nama        : Nurmaida Intan Permadani  
 
-NRP         : 5025251040
-Mata Kuliah : Struktur Data
-Materi      : Queue
+NRP         : 5025251040  
 
-Pengertian Queue
-    Queue adalah struktur data linear yang menggunakan prinsip FIFO (First In First Out)
-    Artinya : elemen yang masuk lebih dulu akan keluar lebih dulu
+Mata Kuliah : Struktur Data  
 
-Operasi Dasar Queue
-    1. Enqueue : menambahkan elemen ke belakang (rear)
-    2. Dequeue : menghapus elemen dari depan (front)
-    3. Peek /Front : melihat elemen terdepan tanpa menghapus
-    4. IsEmpty : mengecek apakah queue kosong
-    5. IsFull : mengecek apakah queue penuh 
+Materi      : Queue  
 
-Contoh Penggunaan :
-    a. antrian pelanggan di bank 
-    b. proses printer
-    c. sistem penjadwalan CPU 
 
-Implementasi Queue
-    1. Array (Static Queue)
-        a. ukurannya tetap 
-        b. bisa terjadi pemborosan ruang 
-    2. Linked List(Dynamic Queue)
-        a. ukuran fleksibel
-        b. lebih efisien untuk operasi dinamis
+Pengertian Queue  
+
+    Queue adalah struktur data linear yang menggunakan prinsip FIFO (First In First Out)  
+    
+    Artinya : elemen yang masuk lebih dulu akan keluar lebih dulu  
+    
+
+Operasi Dasar Queue  
+
+    1. Enqueue : menambahkan elemen ke belakang (rear)  
+    
+    2. Dequeue : menghapus elemen dari depan (front)  
+    
+    3. Peek /Front : melihat elemen terdepan tanpa menghapus  
+    
+    4. IsEmpty : mengecek apakah queue kosong  
+    
+    5. IsFull : mengecek apakah queue penuh  
+    
+
+Contoh Penggunaan :  
+
+    a. antrian pelanggan di bank  
+    
+    b. proses printer  
+    
+    c. sistem penjadwalan CPU  
+    
+
+Implementasi Queue  
+
+    1. Array (Static Queue)  
+    
+        a. ukurannya tetap  
+        
+        b. bisa terjadi pemborosan ruang  
+        
+    2. Linked List(Dynamic Queue)  
+    
+        a. ukuran fleksibel  
+        
+        b. lebih efisien untuk operasi dinamis  
+        
 
 Implementasi menggunakan Array 
 ```bash 
