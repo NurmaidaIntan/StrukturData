@@ -1,4 +1,5 @@
-Nama        : Nurmaida Intan Permadani
+Nama        : Nurmaida Intan Permadani  
+
 NRP         : 5025251040
 Mata Kuliah : Struktur Data
 Materi      : Queue
