@@ -4,7 +4,7 @@ NRP         : 5025251040
 
 Mata Kuliah : Struktur Data  
 
-Materi      : Queue
+Materi      : Linked List
 
 
 # Linked List
