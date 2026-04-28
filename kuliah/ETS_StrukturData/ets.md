@@ -19,6 +19,7 @@ Contoh penggunaan dalam aplikasi nyata :
 Struktur data array dapat diimplementasikan dalam aplikasi untuk mengolah nilai mahasiswa
 
 
+
 ## Soal 2
 
 ```bash
@@ -111,6 +112,12 @@ int main() {
     return 0;
 }
 ```
+a. <img width="1920" height="1080" alt="1" src="https://github.com/user-attachments/assets/686d5d41-e72b-4a22-b8c1-095b004df01d" />
+
+b. <img width="1920" height="1080" alt="2" src="https://github.com/user-attachments/assets/207d4c79-f401-4fb4-97a9-2377ae468b0d" />
+
+c. <img width="1920" height="1080" alt="3" src="https://github.com/user-attachments/assets/1a1f3306-6d74-4ef1-9c82-0a8abc27a4b9" />
+
 
 
 ## Soal 3
@@ -197,6 +204,10 @@ int main() {
     return 0;
 }
 ```
+- <img width="1920" height="1080" alt="6" src="https://github.com/user-attachments/assets/e70c2ae1-ea0c-4846-bac8-81cfb6bc4580" />
+
+- <img width="1920" height="1080" alt="7" src="https://github.com/user-attachments/assets/0497394a-0832-4443-96e0-dcb18d3b09f2" />
+
 
 
 ## Soal 4
@@ -255,6 +266,10 @@ int main() {
 
 }
 ```
+- <img width="1920" height="1080" alt="Cream Pink Minimal Portfolio Presentation " src="https://github.com/user-attachments/assets/35b8bede-0c34-4026-bc51-7d98865a9b17" />
+
+- <img width="1920" height="1080" alt="Cream Pink Minimal Portfolio Presentation  (1)" src="https://github.com/user-attachments/assets/90514b40-41c5-4239-a18b-023bfe164d19" />
+
 
 
 ## Soal 5
@@ -312,6 +327,9 @@ int main() {
     return 0;
 }
 ```
+- dokumentasi hasil program
+- <img width="636" height="382" alt="image" src="https://github.com/user-attachments/assets/ede49df0-5578-4361-a114-43bdd7dcd795" />
+
 
 
 
